@@ -1,0 +1,68 @@
+.advantage-container {
+    margin-top: 160px;
+    margin-left: 280px;
+    margin-left: 280px;
+    flex-direction: column;
+    // width: 100vw;
+    // height: 50px;
+    margin-top: 158px;
+    gap: 93px;
+
+    .gap {
+        gap: 166px;
+    }
+
+
+    .card {
+        flex-direction: column;
+        align-items: center;
+        width: 349px;
+        height: 214px;
+
+        .advantage-img {
+
+            height: 83px;
+            width: 78;
+
+            .img3 {
+                width: 84px;
+                height: 69px;
+            }
+
+            .img4 {
+                width: 91px;
+                height: 63px;
+            }
+        }
+
+        .title {
+            /* Style for "Access you" */
+            margin-top: 28px;
+            color: #ffffff;
+            font-family: "Raleway - Bold";
+            font-size: 20px;
+            font-weight: 700;
+            font-style: normal;
+            letter-spacing: normal;
+            line-height: normal;
+            text-align: center;
+        }
+
+        .subtitle {
+            margin-top: 8px;
+            /* Style for "The abilit" */
+            width: 349px;
+            height: 62px;
+            color: #ffffff;
+            font-family: "Open Sans - Regular";
+            font-size: 14px;
+            font-weight: 400;
+            font-style: normal;
+            letter-spacing: normal;
+            line-height: 21px;
+            text-align: center;
+
+        }
+    }
+
+}

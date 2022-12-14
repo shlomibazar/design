@@ -1,0 +1,77 @@
+.illustration-container {
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    // height: 30vh;
+    // width: 100vw;
+    background-image: url("../../images/illustration-intro.png");
+
+
+
+
+    .illustration-img {
+        width: 720px;
+        height: 534px;
+    }
+
+    .illustration-txt {
+        /* Style for "All your f" */
+        margin-top: 37px;
+        width: 734px;
+        height: 114px;
+        color: #ffffff;
+        font-family: "Raleway - Bold";
+        font-size: 40px;
+        font-weight: 700;
+        font-style: normal;
+        letter-spacing: normal;
+        line-height: 60px;
+        text-align: center;
+    }
+
+    .illustration-sub-txt {
+        /* Style for "Fylo store" */
+        margin-top: 37px;
+        width: 589px;
+        height: 88px;
+        color: #ffffff;
+        font-family: "Open Sans - Regular";
+        font-size: 20px;
+        font-weight: 400;
+        font-style: normal;
+        letter-spacing: normal;
+        line-height: 30px;
+        text-align: center;
+    }
+
+    .illustration-button {
+        /* Style for "Rectangle" */
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+        margin-top: 37px;
+        width: 280px;
+        height: 56px;
+        box-shadow: 2px 3px 6px rgba(0, 0, 0, 0.16);
+        border-radius: 28px;
+        background-image: linear-gradient(152deg, #63e1d9 0%, #34a0cd 100%);
+
+        .illustration-button-txt {
+            /* Style for "Get Starte" */
+            // margin-top: 37px;
+            // width: 89px;
+            // height: 19px;
+            color: #ffffff;
+            font-family: "Raleway - Bold";
+            font-size: 16px;
+            font-weight: 700;
+            font-style: normal;
+            letter-spacing: normal;
+            line-height: normal;
+            text-align: left;
+        }
+    }
+
+}

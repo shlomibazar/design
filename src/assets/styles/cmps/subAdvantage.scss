@@ -1,0 +1,52 @@
+.subAdvantage-container {
+    gap: 57px;
+    img {
+        width: 615px;
+        height: 464px;
+    }
+
+    .info {
+        flex-direction: column;
+    }
+
+    .title {
+        /* Style for "Stay produ" */
+
+        color: #ffffff;
+        font-family: "Raleway - Bold";
+        font-size: 40px;
+        font-weight: 700;
+        font-style: normal;
+        letter-spacing: normal;
+        line-height: 50px;
+        text-align: left;
+    }
+
+
+    p {
+        /* Style for "Never let" */
+
+        color: #ffffff;
+        font-family: "Open Sans - Regular";
+        font-size: 16px;
+        font-weight: 400;
+        font-style: normal;
+        letter-spacing: normal;
+        line-height: 24px;
+        text-align: left;
+    }
+
+    .link {
+        /* Style for "See how Fy" */
+
+        color: #62e0d9;
+        font-family: "Open Sans - Regular";
+        font-size: 16px;
+        font-weight: 400;
+        font-style: normal;
+        letter-spacing: normal;
+        line-height: normal;
+        text-align: left;
+    }
+
+}
